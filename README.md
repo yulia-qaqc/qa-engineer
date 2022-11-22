@@ -1,6 +1,6 @@
 ## QA Engineer 
 
-[Link to my CV](https://drive.google.com/file/d/1hRq9Y8ZziM4RKIFT50hUygaesE3BRPl_/view?usp=share_link/)
+[Link to my CV](https://drive.google.com/file/d/1KAfB8bgRoM6UkSYVYjz4t2JyRYxBguJ9/view?usp=share_link)
 
 
 
