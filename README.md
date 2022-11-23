@@ -18,4 +18,5 @@
 - [HTML](https://github.com/yulia-qaqc/QA-portfolio/blob/main/index.htm)
 - [JSON](https://github.com/yulia-qaqc/QA-portfolio/blob/main/JSON)
 
-### Contact me [@yulia49](http://t.me/)
+### Contact me
+[![Header](https://img.shields.io/badge/Telegram-09090?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/yulia49)
