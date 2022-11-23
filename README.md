@@ -15,4 +15,5 @@
 ### Skills
 
 - [HTML](https://github.com/yulia-qaqc/QA-portfolio/blob/main/index.htm)
+- [Postman](https://github.com/yulia-qaqc/Postman-collections)
 - [JSON](https://github.com/yulia-qaqc/QA-portfolio/blob/main/JSON)
