@@ -1,9 +1,5 @@
 ## QA Engineer 
 
-[Link to my CV](https://drive.google.com/file/d/1KAfB8bgRoM6UkSYVYjz4t2JyRYxBguJ9/view?usp=share_link)
-
-
-
 ### Test documentation
 
 - [Test documentation - russian version](https://drive.google.com/file/d/10U7b2TqDZYexs551HWVqqZ9rp2xh8sy6/view?usp=share_link)
