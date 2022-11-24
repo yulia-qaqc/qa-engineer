@@ -7,11 +7,9 @@
 ### Test documentation
 
 - [Test documentation - russian version](https://drive.google.com/file/d/10U7b2TqDZYexs551HWVqqZ9rp2xh8sy6/view?usp=share_link)
-- [Checklist](https://docs.google.com/spreadsheets/d/1i1du58qzLo_R_JNQ_Ivp9XGSfLqJ6dGTlzBVRkBz4Ok/edit?usp=share_link)
-- [Test suite from Qase.io](https://drive.google.com/file/d/1q9-EmIC6-CwCjmgUFNz2oMM4gO8HCIdl/view?usp=share_link)
-- [Test run from Qase.io](https://app.qase.io/public/report/650e5889d2c015a43f22e7af41c1c9816340d3f1)
-- [Bug report from Jira](https://drive.google.com/file/d/1o68Z5H24a-NJE6Qpv18juwdUZ0F_xG4p/view?usp=share_link)
+- [Functional testing documentation](https://drive.google.com/file/d/1Fdti-8bgjBuPNDWCz1dctWF20Vu0dKB1/view?usp=share_link)
 - [API testing with Postman](https://github.com/yulia-qaqc/Postman-collections)
+- [GUI testing](https://drive.google.com/file/d/1dGr3C6pnkm47YmxW0kRo-nD6EWqMQMzG/view?usp=share_link)
 
 ### Skills
 
