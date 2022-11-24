@@ -13,7 +13,7 @@
 
 ### Skills
 
-- [HTML](https://github.com/yulia-qaqc/QA-portfolio/blob/main/index.htm)
+- [HTML](https://github.com/yulia-qaqc/QA-portfolio/blob/main/html_example.htm)
 - [JSON](https://github.com/yulia-qaqc/QA-portfolio/blob/main/JSON)
 
 ### Contact me
