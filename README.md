@@ -8,6 +8,7 @@
 ### Skills
 
 - [HTML](https://github.com/yulia-qaqc/QA-portfolio/blob/main/html_example.htm)
+- [Linux](https://github.com/yulia-qaqc/QA-portfolio/blob/main/gitBash.md)
 - [JSON](https://github.com/yulia-qaqc/QA-portfolio/blob/main/JSON)
 
 ### Contact me
