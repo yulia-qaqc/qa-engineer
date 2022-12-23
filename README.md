@@ -1,8 +1,8 @@
 ## QA Engineer 
 
-- [Функциональное тестирование. Тестовая документация](https://drive.google.com/file/d/1Nh3yjHg6vIOA1dN8S-M5UaPhkY1BRu6g/view?usp=share_link)
+- [Тестирование web приложения: функциональное, API, нагрузочное](https://drive.google.com/file/d/1dFPP7xZH2sw4rDGt9Usry6-KjBlICBBL/view?usp=share_link)
 - [Functional testing documentation](https://drive.google.com/file/d/1Fdti-8bgjBuPNDWCz1dctWF20Vu0dKB1/view?usp=share_link)
-- [API testing with Postman](https://github.com/yulia-qaqc/Postman-collections)
+- [API testing](https://github.com/yulia-qaqc/Postman-collections)
 - [UI testing](https://drive.google.com/file/d/1KGJ70uslgxXMIOZ_Jk0eoDiynhlipw2f/view?usp=share_link)
 
 ### Skills
