@@ -9,7 +9,6 @@
 
 - [HTML/ CSS](https://github.com/yulia-qaqc/QA-portfolio/blob/main/html_example.htm)
 - [Командная строка Linux (Git Bash)](https://github.com/yulia-qaqc/QA-portfolio/blob/main/gitBash.md)
-- JSON
 
 ### Contact me
 [![Header](https://img.shields.io/badge/Telegram-09090?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/yulia49)
