@@ -8,6 +8,9 @@ XPath (XML Path Language) — язык запросов к элементам XM
 
 ```//tag[@attribute='value'][last()]``` последний элемент
 
+```!=``` Поиск по значениям атрибута, исключая конкретное значение
+```//tag[@attribute!='value']```
+
 ### Поиск по нескольким значениям атрибута
 
 ```//tag[@attribute1='value1'][@attribute2='value2']```
@@ -30,16 +33,16 @@ Not contains
 ```//tag[not(contains(text(),'example'))]```
 
 ### Поиск по вложенности
-/ дочерние элементы на один уровень ниже
+```/``` дочерние элементы на один уровень ниже
 
-// дочерние элементы на всех уровнях вложенности
+```//``` дочерние элементы на всех уровнях вложенности
 ```//tag[@attribute='value']//tag2[@attribute2='value2']```
 
-/.. родительские элементы на один уровень выше
+```/..``` родительские элементы на один уровень выше
 ```//tag[@attribute='value']/..```
 
 Ancestor- поиск по всем родительским уровням
-```//tag[@attribute='value']/ancestor::div```
+```//tag[@attribute='value']/ancestor::tag2```
 
 Ancestor- поиск по первому родительскому уровню
-```//tag[@attribute='value']/parent::div```
+```//tag[@attribute='value']/parent::tag2```
