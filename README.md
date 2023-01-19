@@ -8,7 +8,7 @@
 - [UI testing with DevTools](https://drive.google.com/file/d/1KGJ70uslgxXMIOZ_Jk0eoDiynhlipw2f/view?usp=share_link)
 - [Командная строка Unix](https://github.com/yulia-qaqc/QA-portfolio/blob/main/gitBash.md)
 - [HTML/ CSS](https://github.com/yulia-qaqc/QA-portfolio/blob/main/html_example.htm)
-- [XPath] (https://github.com/yulia-qaqc/qa-engineer/blob/main/xpath.md)
+- [XPath](https://github.com/yulia-qaqc/qa-engineer/blob/main/xpath.md)
 
 ### Contact
 [![Header](https://img.shields.io/badge/Telegram-09090?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/yulia49)
