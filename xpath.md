@@ -44,5 +44,5 @@ Not contains
 Ancestor- поиск по всем родительским уровням
 ```//tag[@attribute='value']/ancestor::tag2```
 
-Ancestor- поиск по первому родительскому уровню
+Parent- поиск по первому родительскому уровню
 ```//tag[@attribute='value']/parent::tag2```
