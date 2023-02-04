@@ -5,7 +5,7 @@
 - [Тестирование производительности](https://drive.google.com/file/d/1H7nnXZdSEOYLWzcxNqVrDw1LndRuF1UR/view?usp=share_link)
 - [Functional testing of web application (english)](https://drive.google.com/file/d/1Fdti-8bgjBuPNDWCz1dctWF20Vu0dKB1/view?usp=share_link)
 - [API testing with Postman](https://github.com/yulia-qaqc/Postman-collections)
-- [UI testing with DevTools](https://drive.google.com/file/d/1KGJ70uslgxXMIOZ_Jk0eoDiynhlipw2f/view?usp=share_link)
+- [Selenium WebDriver](https://github.com/yulia-qaqc/selenium/blob/main/LoginScript/src/test/java/FirstTest.java)
 - [Командная строка Unix](https://github.com/yulia-qaqc/QA-portfolio/blob/main/gitBash.md)
 - [XPath](https://github.com/yulia-qaqc/qa-engineer/blob/main/xpath.md)
 
