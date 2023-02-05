@@ -1,5 +1,5 @@
-## QA Engineer 
-### Skills
+### Yulia Shishkina
+## Software testing engineer 
 
 - [Тестирование web приложения (функциональное, API)](https://drive.google.com/file/d/1jPG_e58PMU-aSIJTSH-S8CVz-mf5eUJe/view?usp=share_link)
 - [Тестирование производительности](https://drive.google.com/file/d/1H7nnXZdSEOYLWzcxNqVrDw1LndRuF1UR/view?usp=share_link)
