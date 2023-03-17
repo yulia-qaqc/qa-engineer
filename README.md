@@ -4,6 +4,7 @@
 - [Тестирование web приложения (функциональное, API)](https://drive.google.com/file/d/1jPG_e58PMU-aSIJTSH-S8CVz-mf5eUJe/view?usp=share_link)
 - [Автоматизация тестирования UI (Selenium WebDriver, Java, JUnit, Maven)](https://github.com/yulia-qaqc/selenium/blob/main/README.md)
 - [Автоматизация тестирования API (REST Assured, Java, JUnit, Maven)](https://github.com/yulia-qaqc/selenium/blob/main/QaseApi/src/test/java/ApiTest.java)
+- [Составление запросов SQL](https://github.com/yulia-qaqc/qa-engineer/blob/main/SQL.md)
 - [Functional testing of web application (english)](https://drive.google.com/file/d/1Fdti-8bgjBuPNDWCz1dctWF20Vu0dKB1/view?usp=share_link)
 - [JMeter - тестирование производительности](https://drive.google.com/file/d/1H7nnXZdSEOYLWzcxNqVrDw1LndRuF1UR/view?usp=share_link)
 
