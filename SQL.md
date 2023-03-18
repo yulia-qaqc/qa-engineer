@@ -27,3 +27,27 @@
 <p align="center">
 <img src="https://github.com/yulia-qaqc/qa-engineer/blob/main/Screenshots/12.png" width="750">
 </p>
+
+### Запрос 4
+
+Найдите средний размер выданного кредита для каждого типа кредита. Ограничьтесь только кредитами, которые были выданы клиентам старше 30 лет (не строго).
+
+<p align="center">
+<img src="https://github.com/yulia-qaqc/qa-engineer/blob/main/Screenshots/13.png" width="750">
+</p>
+
+### Запрос 5
+
+Ограничьтесь только клиентами из городов с идентификаторами 1, 3 и 6 младше 40 лет (строго). Определите количество выданных кредитов в каждом клиентском сегменте качества (поле cl_segm). Поставьте также ограничение на cl_segm - он не должен быть пустым. Отранжируйте результат по группировочному признаку по убыванию его значений.
+
+<p align="center">
+<img src="https://github.com/yulia-qaqc/qa-engineer/blob/main/Screenshots/14.png" width="750">
+</p>
+
+### Запрос 6
+
+Есть ли в таблице хоть один клиент, которому было выдано больше одного кредита?
+
+<p align="center">
+<img src="https://github.com/yulia-qaqc/qa-engineer/blob/main/Screenshots/15.png" width="750">
+</p>
