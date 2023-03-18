@@ -51,3 +51,16 @@
 <p align="center">
 <img src="https://github.com/yulia-qaqc/qa-engineer/blob/main/Screenshots/15.png" width="750">
 </p>
+
+### Запрос 7
+
+Подсчитать количество чеков, в которых куплено больше 2-х пар любой обуви.   
+Таблицы:   
+Positions. Содержит столбцы: id_check (номер чека), id_pos (номер позиции чека), art (артикул), quantity (количество штук).   
+Products. Содержит столбцы: art (артикул), product (продукт), category (категория).   
+
+<p align="center">
+<img src="https://github.com/yulia-qaqc/qa-engineer/blob/main/Screenshots/17.png" width="750">
+</p>
+
+
